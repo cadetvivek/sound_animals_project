@@ -42,11 +42,8 @@ footer {
 .l {
   background-image: url("image/flying-birds.jpg");
 }
-.w,
-background-image {
-  height: 34px;
-  width: 43px;
-}
+
+
 
 .set {
   margin: 20% auto;
